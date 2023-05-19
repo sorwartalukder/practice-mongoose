@@ -6,7 +6,7 @@ npm install typescript --save-dev
 
 npm install express --save
 
-https://mongoosejs.com/    // go to doc   // go to quick start
+https://mongoosejs.com/    // go to doc   // go to quick start /n
 npm install mongoose --save
 
 https://www.npmjs.com/package/ts-node-dev
