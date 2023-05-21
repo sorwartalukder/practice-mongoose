@@ -26,3 +26,19 @@ app.ts
 npm i --save-dev @types/express
 npm i --save-dev @types/cors
  */
+
+
+/*
+interface -> schema -> model -> model(database query)
+
+Modular system
+
+Interface -> user.interface.ts
+Schema, Model  -> user.model.ts
+
+route
+route function -> controller.ts
+Database Query function -> services
+
+route->controller -> service
+*/
